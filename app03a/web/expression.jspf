@@ -1,0 +1,5 @@
+<hr/>
+this expression doesn't need ';'
+because its result will pass to out.print()<br/>
+today is <%=java.util.Calendar.getInstance().getTime()%>
+<hr/>
